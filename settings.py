@@ -19,7 +19,7 @@ BAKERY_VIEWS = [
     'table_stacker.api.TableDetailJSONView',
     'bakery.views.Buildable404View',
 ]
-SITE_NAME = 'TableStacker Demonstration'
+SITE_NAME = 'Missourian Data'
 FACEBOOK_ADMINS = ['foo','bar']
 
 DEBUG = True
